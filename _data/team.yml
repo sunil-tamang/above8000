@@ -64,7 +64,7 @@
   email: "john.doe@email.com"
   facebook: "https://facebook.com/johndoe"
   instagram: "https://instagram.com/johndoe"
-  description: Gelu Sherpa is a seasoned climber from Nepal with a unique and inspiring background. Before dedicating his life to the mountains, Gelu was a monk at a monastery, where he cultivated a deep sense of discipline, spirituality, and inner strength. However, his love for the majestic peaks of the Himalayas drew him away from the monastic life and onto the challenging trails that lead to the world’s highest summits. <br /> <br/>  Gelu’s journey from the serene environment of the monastery to the rugged and demanding world of mountaineering has shaped him into a climber with exceptional resilience and a profound respect for nature. His spiritual background brings a unique perspective to his expeditions, allowing him to navigate the mountains with a calm and focused mind, even in the most trying conditions. <br /> <br /> As a member of The Alpine Expeditions team, Gelu’s experience as both a monk and a mountaineer makes him a valuable guide. He has led numerous successful expeditions, where his combination of physical endurance and mental clarity has earned him the trust and admiration of climbers from around the world. <br/> 
+  description: Gelu Sherpa is a seasoned climber from Nepal with a unique and inspiring background. Before dedicating his life to the mountains, Gelu was a monk at a monastery, where he cultivated a deep sense of discipline, spirituality, and inner strength. However, his love for the majestic peaks of the Himalayas drew him away from the monastic life and onto the challenging trails that lead to the world’s highest summits. <br /> <br/>  Gelu’s journey from the serene environment of the monastery to the rugged and demanding world of mountaineering has shaped him into a climber with exceptional resilience and a profound respect for nature. His spiritual background brings a unique perspective to his expeditions, allowing him to navigate the mountains with a calm and focused mind, even in the most trying conditions. <br /> <br /> As a member of The Above 8000 team, Gelu’s experience as both a monk and a mountaineer makes him a valuable guide. He has led numerous successful expeditions, where his combination of physical endurance and mental clarity has earned him the trust and admiration of climbers from around the world. <br/> 
   mountains:
     - name: Everest 
       summited: 1
@@ -110,7 +110,7 @@
   email: "john.doe@email.com"
   facebook: "https://facebook.com/johndoe"
   instagram: "https://instagram.com/johndoe"
-  description: Sensai Pema Waiba is a seasoned climber and filmmaker who has conquered some of the highest peaks in the Himalayas. With a passion for storytelling and adventure, Pema has successfully climbed Mount Everest not once, but twice, and has also stood atop Lobuche, a formidable mountain in the Khumbu region. As a filmmaker, Pema brings a unique perspective to the world of mountaineering, capturing the beauty and drama of the high mountains through his lens. His experience and expertise make him an invaluable asset to our team at Alpine Expeditions.
+  description: Sensai Pema Waiba is a seasoned climber and filmmaker who has conquered some of the highest peaks in the Himalayas. With a passion for storytelling and adventure, Pema has successfully climbed Mount Everest not once, but twice, and has also stood atop Lobuche, a formidable mountain in the Khumbu region. As a filmmaker, Pema brings a unique perspective to the world of mountaineering, capturing the beauty and drama of the high mountains through his lens. His experience and expertise make him an invaluable asset to our team at Above 8000.
   mountains:
     - name: Everest 
       summited: 2
@@ -150,7 +150,7 @@
 - name: Prem Mamba
   role: Climbing Guide
   photos: "assets/css/images/team/4.jpg"
-  description: Prem Mamba is the legendary force behind The Alpine Expeditions’ most daring climbs. With the Himalayas as his playground, Prem has mastered the art of summiting the world's highest peaks, including Everest, Lhotse, Ama Dablam, and Lobuche. His name is synonymous with resilience, precision, and an unyielding passion for mountaineering. As our chief mountaineer, Prem doesn’t just lead expeditions—he crafts unforgettable experiences, pushing the boundaries of adventure while ensuring the utmost safety and success for our clients. At The Alpine Expeditions, Prem Mamaba isn’t just a guide; he’s the embodiment of the spirit of exploration that drives us to new heights.
+  description: Prem Mamba is the legendary force behind Above 8000s’ most daring climbs. With the Himalayas as his playground, Prem has mastered the art of summiting the world's highest peaks, including Everest, Lhotse, Ama Dablam, and Lobuche. His name is synonymous with resilience, precision, and an unyielding passion for mountaineering. As our chief mountaineer, Prem doesn’t just lead expeditions—he crafts unforgettable experiences, pushing the boundaries of adventure while ensuring the utmost safety and success for our clients. At The Above 8000, Prem Mamaba isn’t just a guide; he’s the embodiment of the spirit of exploration that drives us to new heights.
   mountains:
     - name: Mount Everest
       summited: 1
@@ -177,7 +177,7 @@
 - name: Sunil Tamang
   role: Climbing Guide
   photos: "assets/css/images/team/7.jpg"
-  description: Sunil Tamang is a highly skilled and ambitious climbing guide at Alpine Expeditions, with a strong passion for leading expeditions in the Himalayas. With a impressive climbing resume, Sunil has successfully summited several notable peaks, including Bauntse, Island Peak, and Mera Peak."
+  description: Sunil Tamang is a highly skilled and ambitious climbing guide at Above 8000, with a strong passion for leading expeditions in the Himalayas. With a impressive climbing resume, Sunil has successfully summited several notable peaks, including Bauntse, Island Peak, and Mera Peak."
   mountains:
     - name: Everest
       summited: 1

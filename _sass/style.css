@@ -742,7 +742,7 @@ i {
 
 @media (min-width: 48em) {
   .banner {
-    margin-top: 7em;
+    margin-top: 3em;
     height: 60vh;
   }
 }
@@ -2495,25 +2495,6 @@ p.content__pg:not(:last-child) {
   .two-col-layout .content__left {
     padding-left: 0;
     padding-right: 0;
-  }
-}
-@media (min-width: 1024px) {
-  .header__nav {
-    display: block;
-    width: auto;
-    max-height: inherit;
-  }
-  .nav__dropdown {
-    position: absolute;
-    top: 11em;
-    padding-right: 3em;
-  }
-  .nav__ul {
-    margin-top: 0;
-    border-top: 0;
-  }
-  .nav__li {
-    display: inline-block;
   }
 }
 @media (max-height: 600px) {
