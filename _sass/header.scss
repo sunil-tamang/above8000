@@ -21,7 +21,29 @@
     display: inline-block;
 }
 
-
+.social-icons {
+    display: flex;
+    gap: 1rem;
+}
+.social-icons a {
+    padding: 10px;
+    // border-radius: 50%;
+    // border: 2px solid #333;
+    text-decoration: none;
+    color: #333;
+    transition: all 0.3s ease;
+    display: inline-block;
+}
+.social-icons a:hover {
+    background-color: rgb(255, 177, 0);
+    color: #000;
+}
+/* Hide icons on mobile (screens smaller than 768px) */
+@media (max-width: 768px) {
+    .social-icons {
+        display: none;
+    }
+}
 
 
 .headerBlack{
@@ -273,12 +295,12 @@ li.nav__dropdown--item.item--open{
         // width: auto;
         // float: right;
         max-height: inherit;
-        margin-left: 2em;
+        margin-left: 3em;
     }
     .nav__dropdown{
         position: absolute;
         top: 7em;
-		padding-right: 3em;
+		padding-right: 4em;
     }
     .nav__ul{margin-top:0; border-top: 0;}
     .nav__li{ display: inline-block; }
