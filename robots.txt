@@ -1,0 +1,11 @@
+---
+---
+
+User-agent: *
+Disallow:
+
+# Sitemap: {{ site.url }}/sitemap.xml
+Sitemap: https://thealpineexpeditions.com/sitemap.xml
+
+
+
