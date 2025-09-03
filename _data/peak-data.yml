@@ -97,7 +97,7 @@ mera-peak:
   bookLink: "https://www.instamojo.com/thetrippyfrog/beas-kund-trek-ab0ba/"
   description: "Mera Peak (6,654m) is the highest peak among the trekking peaks listed by the Nepal Mountaineering Association (NMA). Located in the Hinku Valley, it offers a true mountaineering experience with stunning panoramic views. Various routes access Mera Peak, but we offer the most dramatic one, providing adventurers with an unforgettable journey. From the summit, you'll enjoy breathtaking vistas including Chamlang, Kangchenjunga, Makalu, Baruntse to the east, and Cho-Oyu, Ama Dablam, Kangtega to the west. Everest can be seen to the north over the massive unclimbed south face of Lhotse and the Nuptse ridge."
   excerpt: "Mera Peak (6,654m) stands as the highest among Nepal's trekking peaks, offering adventurers a true mountaineering experience. With stunning panoramic views of surrounding peaks, it promises an unforgettable journey through the Hinku Valley."
-  video: "<iframe width='100%' class='vid' height='400' src='https://www.youtube.com/embed/BRV7xvWwUnQ?start=1326' frameborder='0' allow='accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture' allowfullscreen></iframe>"
+  video: "<iframe width='100%' class='vid' height='400' src='https://www.youtube.com/embed/9jSCnohR6DE?si=N7SSD0m7KvoOekVs' frameborder='0' allow='accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture' allowfullscreen></iframe>"
   download: "//assets/docs/mera-peak.pdf"
   image: "<img class='map1'>"
   highlights:
@@ -179,7 +179,7 @@ ama-dablam:
 
     excerpt: "Ama Dablam, at 6,812 meters, is an iconic Himalayan peak offering a challenging and rewarding climbing experience. This expedition provides both technical climbing and cultural immersion in the Khumbu region."
 
-    video: "<iframe width='100%' class='vid'  height='400' src='https://www.youtube.com/embed/example_video' frameborder='0' allow='accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture' allowfullscreen></iframe>"
+    video: "<iframe width='100%' class='vid'  height='400' src='https://www.youtube.com/embed/D55lIz_9dc8?si=LXlPp__EUESVdC4q' frameborder='0' allow='accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture' allowfullscreen></iframe>"
 
     download: "//assets/docs/ama-dablam.pdf"
 
